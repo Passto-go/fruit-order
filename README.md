@@ -63,3 +63,26 @@
 ## License
 
 GPL-3.0
+
+## 后端图片
+
+<img width="1440" height="772" alt="截屏2026-09-24 15 10 34" src="https://github.com/user-attachments/assets/692ddef8-bca8-42df-a3fd-16fa783280ec" />
+<img width="1431" height="769" alt="截屏2026-09-24 15 10 46" src="https://github.com/user-attachments/assets/3dfe7e52-ef20-47c1-9b52-de86a098eb1c" />
+<img width="1429" height="768" alt="截屏2026-09-24 15 10 53" src="https://github.com/user-attachments/assets/c195291b-f5fb-4fff-b25b-9345991b080c" />
+<img width="1439" height="776" alt="截屏2026-09-24 15 12 01" src="https://github.com/user-attachments/assets/29fe2002-ae9e-4460-8084-a3505835bf2d" />
+<img width="1440" height="775" alt="截屏2026-09-24 15 11 12" src="https://github.com/user-attachments/assets/7430463a-762b-4820-b8b3-db3210c0cad8" />
+<img width="1430" height="763" alt="截屏2026-09-24 15 11 01" src="https://github.com/user-attachments/assets/e6376741-ca99-4243-b55f-0ccfa3e8beac" />
+
+## 小程序图片
+
+<img width="314" height="610" alt="截屏2026-09-24 15 30 56" src="https://github.com/user-attachments/assets/066de14a-9d35-4dde-b088-f5a8d3d0cc82" />
+<img width="297" height="616" alt="截屏2026-09-24 15 30 40" src="https://github.com/user-attachments/assets/f94fdf0f-b1d3-4e03-b56b-d75bf67ec24d" />
+<img width="293" height="616" alt="截屏2026-09-24 15 33 33" src="https://github.com/user-attachments/assets/155e4ad4-7645-4400-8014-50ef992d1525" />
+<img width="303" height="610" alt="截屏2026-09-24 15 32 58" src="https://github.com/user-attachments/assets/4d1a03ea-a59b-4cc0-a5a1-b60c0d23c126" />
+<img width="297" height="619" alt="截屏2026-09-24 15 31 52" src="https://github.com/user-attachments/assets/73b97179-76a8-4b3d-8efb-a48b3cafc960" />
+<img width="299" height="618" alt="截屏2026-09-24 15 32 15" src="https://github.com/user-attachments/assets/e39ce81b-ebc2-4d7f-bea7-565917916194" />
+<img width="316" height="616" alt="截屏2026-09-24 15 31 33" src="https://github.com/user-attachments/assets/420beb12-4ae1-454e-8db6-12cfd1312a9b" />
+
+
+
+
